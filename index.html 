@@ -63,7 +63,10 @@ and dissatisfaction</p1>
 
 <h2> Chosen FLowcharts <h2>
 <img src= "ScreeShot.png" height="600" width="800"/>
-<p> We chose to use this flowchart because this fulfills the requirments of the client. It has 4 pages: "The homepaage", "Some products", "Local Benefits/About us" "locally Popualr products" and a page for "Ferarri products" (sample page of a brand page). Each of them contain most of the things that we want to display. Although we can't put in all the products (there are too many), we tried our best to put in the most famous products and the ones that they especially want to sell.</p>
+<p> We chose to use this flowchart because this fulfills the requirments of the client. It has 4 pages: "The homepaage",
+  "Some products", "Local Benefits/About us" "locally Popualr products" and a page for "Ferarri products" (sample page of
+  a brand page). Each of them contain most of the things that we want to display. Although we can't put in all the products
+   (there are too many), we tried our best to put in the most famous products and the ones that they especially want to sell.</p>
 
 <a href="makinghomepages.html"/>
 <html>
@@ -71,9 +74,30 @@ and dissatisfaction</p1>
 <!DOCTYPE HTML>
 <html>
 <h1>Subpages</h1>
-<p>Our group will make a template that will be the same for most of the pages excpet the homepage. Each subpage will have the categories, the search bar,language bar and the menu bar.</p>
+<p>Our group will make a template that will be the same for most of the pages excpet the homepage.
+  Each subpage will have the categories,
+   the search bar,language bar and the menu bar.</p>
+
+   <img src="Untitled-1.png"; height="600" width="900" />
+
+  <p>At first we planned to make our subpages similar to the wireframe above, but we realised that our subpages are
+    supposed to look the same, so we came up with a template and  got that one used for all the sites.  </p>
+    <p> We actaully did quite a bit of research on the "look" of the website. Some of the websited we looked at were Dior, Chanel and Sasa</p>
+    <p> We noticed that websites like these give such a look that satisifies the viewvers. it makes them trust it. The colors are used in the
+       right manner. If i was a customer of these websites, whether they were famous or not, I would have no problems buying anything I wanted online.
+
+    <img src="Channel.png"; height= "700" width="1080" float=left/>
+    <img src="Dior.png"; height=500 width="1080" float=left/>
+    <img src="Sasa.png"; height="500" width:"2210" float=left />
+
 <h2>Objectives</h2>
 <p> 1. To find images of the products </p>
 <p> 2. Add them to Dreamweaver</p>
 <p> 3. Find the information of the products such as the price, quantity and the brand names </p>
-<p> 4. Add links to the images so that all of the above information is on a different page when the viwers click on the image</p>
+<p> 4. Add links to the images so that all of the above information is on a different page when the viwers
+click on the image</p>
+
+<h1>Success criteria</h1>
+<p> 1. Made the template</p>
+<p> 2. Found the images of the products </p>
+<p> 3. Added the images to Dreamwevaer</p>
