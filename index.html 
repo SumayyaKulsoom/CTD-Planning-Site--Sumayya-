@@ -1,5 +1,7 @@
 <!DOCTYPE HTML>
 <html>
+<head>
+<body>
 <h1> In class. Mr.chiu assigned us to make a website for a client we like. We were put in groups and told
   to pick a website that we would like to create. We chose to make a website on "branded perfumes and cosmetics."</h1>
 <title>Perfumes and Cosmetics </title>
@@ -71,6 +73,8 @@ and dissatisfaction</p1>
 <a href="makinghomepages.html"/>
 <html>
 <p><a href="Subpages.html">Planning Subpages</a></p>
+</head>
+</body>
 <!DOCTYPE HTML>
 <html>
 <h1>Subpages</h1>
@@ -101,3 +105,13 @@ click on the image</p>
 <p> 1. Made the template</p>
 <p> 2. Found the images of the products </p>
 <p> 3. Added the images to Dreamwevaer</p>
+
+<h1>Buttons</h1>
+<p> Mr.Chiu taught us how to make a animated button. By animated, I mean when we put the cursor on the button, it's no longer
+  highlighted, and when the cursor is on the button, it's higlighted. </p>
+<img src="button1"; height="200" width="1000"/>
+<img src="button2"; height="200" width="1000"/>
+<img src="button3"; height="200" width="1000"/>
+<img src="button4"; height="200" width="1000"/> 
+</head>
+</body>
